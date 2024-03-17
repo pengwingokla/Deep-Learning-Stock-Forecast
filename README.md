@@ -6,6 +6,11 @@ This deep learning project aimed at predicting stock prices using historical dat
 
 The model is designed to predict stock prices for two distinct time windows: a single-day window and a seven-day window. By offering predictions for both short and medium-term intervals, the project caters to the diverse needs of investors, from day traders to longer-term investors seeking strategic insights.
 
+## Dataset Information
+Ho Chi Minh Stock Index, or VN-INDEX - a market cap-weighted index of listed companies in the Ho Chi Minh Stock Exchange. 
+Tickers are from the bank sector with ticker symbols includes:
+'ACB', 'VCB', 'BID', 'CTG', 'VPB', 'TCB', 'MBB', 'SSB', 'STB', 'HDB'
+
 ## Future Development of the Project
 
 * Interactive UI enhancement to offer an even more interactive and intuitive experience for investors. The interactive UI will feature dynamic visualizations, customizable settings, and real-time updates, empowering users to effortlessly interpret and act upon the generated insights. Through user feedback and iterative design improvements, the project aims to provide a seamless and engaging platform for informed decision-making in stock trading.
