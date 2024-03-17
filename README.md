@@ -11,16 +11,16 @@ Ho Chi Minh Stock Index, or VN-INDEX - a market cap-weighted index of listed com
 Tickers are from the bank sector with ticker symbols includes:
 'ACB', 'VCB', 'BID', 'CTG', 'VPB', 'TCB', 'MBB', 'SSB', 'STB', 'HDB'
 
-ACB: Asia Commercial Bank (Ngân hàng Thương mại Cổ phần Á Châu)
-VCB: Vietcombank - Joint Stock Commercial Bank for Foreign Trade of Vietnam (Ngân hàng thương mại cổ phần Ngoại thương Việt Nam)
-BID: Commercial Bank for Investment & Development of Vietnam (Ngân hàng TMCP Đầu tư và Phát triển Việt Nam)
-CTG: Vietnam Joint Stock Commercial Bank for Industry and Trade (Ngân hàng TMCP Công Thương Việt Nam)
-VPB: Vietnam Prosperity Joint Stock Commercial Bank (Ngân hàng Thương mại cổ phần Việt Nam Thịnh Vượng)
-TCB: Techcombank - Vietnam Technological and Commercial Joint Stock Bank (Ngân hàng TMCP Kỹ thương Việt Nam)
-MBB: MB Bank - Military Commercial Joint Stock Bank (Ngân hàng TMCP Quân Đội)
-SSB: SeABank - Southeast Asia Commercial Joint Stock Bank (Ngân hàng TMCP Đông Nam Á)
-STB: SacomBank - Saigon Thuong Tin Commercial Joint Stock Bank (Ngân hàng TMCP Sài Gòn Thương Tín)
-HDB: HDBank - Ho Chi Minh City Development Joint Stock Commercial Bank (Ngân hàng TMCP Phát triển TP. HCM)
+<br> ACB: Asia Commercial Bank (Ngân hàng Thương mại Cổ phần Á Châu)
+<br> VCB: Vietcombank - Joint Stock Commercial Bank for Foreign Trade of Vietnam (Ngân hàng thương mại cổ phần Ngoại thương Việt Nam)
+<br> BID: Commercial Bank for Investment & Development of Vietnam (Ngân hàng TMCP Đầu tư và Phát triển Việt Nam)
+<br> CTG: Vietnam Joint Stock Commercial Bank for Industry and Trade (Ngân hàng TMCP Công Thương Việt Nam)
+<br> VPB: Vietnam Prosperity Joint Stock Commercial Bank (Ngân hàng Thương mại cổ phần Việt Nam Thịnh Vượng)
+<br> TCB: Techcombank - Vietnam Technological and Commercial Joint Stock Bank (Ngân hàng TMCP Kỹ thương Việt Nam)
+<br> MBB: MB Bank - Military Commercial Joint Stock Bank (Ngân hàng TMCP Quân Đội)
+<br> SSB: SeABank - Southeast Asia Commercial Joint Stock Bank (Ngân hàng TMCP Đông Nam Á)
+<br> STB: SacomBank - Saigon Thuong Tin Commercial Joint Stock Bank (Ngân hàng TMCP Sài Gòn Thương Tín)
+<br> HDB: HDBank - Ho Chi Minh City Development Joint Stock Commercial Bank (Ngân hàng TMCP Phát triển TP. HCM)
 
 ## Future Development of the Project
 
