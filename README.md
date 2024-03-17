@@ -9,7 +9,7 @@ The model is designed to predict stock prices for two distinct time windows: a s
 ## Dataset Information
 Ho Chi Minh Stock Index, or VN-INDEX - a market cap-weighted index of listed companies in the Ho Chi Minh Stock Exchange. 
 Tickers are from the bank sector with ticker symbols includes:
-'ACB', 'VCB', 'BID', 'CTG', 'VPB', 'TCB', 'MBB', 'SSB', 'STB', 'HDB'
+'ACB', 'VCB', 'BID', 'CTG', 'VPB', 'TCB', 'MBB', 'SSB', 'STB', 'HDB'.
 
 <br> ACB: Asia Commercial Bank (Ngân hàng Thương mại Cổ phần Á Châu)
 <br> VCB: Vietcombank - Joint Stock Commercial Bank for Foreign Trade of Vietnam (Ngân hàng thương mại cổ phần Ngoại thương Việt Nam)
