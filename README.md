@@ -30,4 +30,4 @@ Tickers are from the bank sector with ticker symbols includes:
 
 * Include sentiment analysis using NLP techniques to analyze news articles, social media posts, earnings call transcripts, and other textual sources to gauge market sentiment. By extracting sentiment from text data, such as positive or negative sentiment toward a particular stock or the market as a whole, NLP can provide valuable insights into investor sentiment and market trends. Incorporating sentiment analysis into stock prediction models can help improve their accuracy by considering the impact of market sentiment on stock prices.
 
-![alt text]((https://github.com/pengwingokla/Deep-Learning-Stock-Forecast/blob/main/AAPL-RNN%20Prediction%20against%20ema.png)https://github.com/pengwingokla/Deep-Learning-Stock-Forecast/blob/main/AAPL-RNN%20Prediction%20against%20ema.png)
+![alt text](https://github.com/pengwingokla/Deep-Learning-Stock-Forecast/blob/main/AAPL-RNN%20Prediction%20against%20ema.png)
